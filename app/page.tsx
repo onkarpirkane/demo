@@ -95,7 +95,11 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <div>Hello, GeeksforGeeks  omkar <div>Hello, GeeksforGeeks Learner!!</div>Learner!!</div>
       </footer>
     </div>
+  
+
   );
 }
+
